@@ -270,19 +270,19 @@
 }
 
 .section-title_theme_dark {
-  color:#f2f2f2;
+  color:white;
 }
 
 .section-subtitile_theme_dark {
-  color:#f2f2f2;
+  color:white;
 }
 
 .table__heading_theme_dark {
-  color:#f2f2f2;
+  color:white;
 }
 
 .table__text_theme_dark {
-  color:#f2f2f2;
+  color:white;
 }
 
 .kaufman__triangle {
@@ -324,7 +324,7 @@
 }
 
 .footer__author {
-  color: #f2f2f2;
+  color: white;
   margin: 18px 0 18px 0px;
   padding: 0;
   line-height: 25px;
@@ -345,7 +345,7 @@
 .footer__column-heading {
   margin: 0 0 20px 0;
   padding: 0;
-  color:#f2f2f2;
+  color:white;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
@@ -353,7 +353,7 @@
 
 .footer__column-link {
   text-decoration: none;
-  color:#f2f2f2;
+  color:white;
 }
 
 .footer_social-icon {
