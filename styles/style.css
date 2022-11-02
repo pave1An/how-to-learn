@@ -358,3 +358,7 @@
   size: 16px 16px;
   margin: 0 10px 0 0;
 }
+
+a:link:hover {
+  text-shadow: 1px 0 2px;
+}
