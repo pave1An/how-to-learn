@@ -1,7 +1,7 @@
-.description {
+.oakley {
   display: flex;
-  box-sizing: border-box;
   align-content: center;
   justify-content: center;
-  padding: 100px 0 0;
+  padding: 160px 0 0;
+  background-color: #f2f2f2;
 }
