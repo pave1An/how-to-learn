@@ -1,8 +1,6 @@
 @import "../vendor/normalize.css";
 
 @import "../block/page/page.css";
-@import "../block/content/content.css";
-
 
 @import "../block/header/header.css";
 @import "../block/header/__title/header__title.css";
